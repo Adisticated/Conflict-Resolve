@@ -20,10 +20,10 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    std::cout<<"hello";
-    std::cout<<"aditya55";
+    
+    std::cout<<"aditya57";
     std::cout<<"cant see";
-    std::cout<<"This is in aditya1 but not in master";
+    std::cout<<"I am not there";
     return 0;
 }
 
